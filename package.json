@@ -2,6 +2,7 @@
   "name": "robofriend",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Detnex.github.io/Detnex.github.io"
   "dependencies": {
     "react": "^16.8.0",
     "react-dom": "^16.8.0",
